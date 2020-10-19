@@ -46,9 +46,19 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
   Dizionario dei diritti dei lavoratori annotato con la giurisprudenza. Iniziativa il cui obiettivo è fornire un quadro interpretativo e di orientamento caratterizzato dal punto di vista dei lavoratori.
 
+## Prospettive storiche
+
+- [Il Controbit - Settembre '77](http://rsuibmsegrate.altervista.org/770900.htm)
+
+  Il Controbit, una pubblicazione della rappresentanza sindacale in IBM, dove si parla di rivendicazioni di diritti in Italia, di Apartheid in Sudafrica, della falsa retorica delle aziende tech sull' "investire in Italia" e delle castronerie dette e scritte da politici ed economisti quando si parla di progresso tecnologico.
+
 ## Contribuzioni
 
 È possibile contribuire liberamente tramite issues e pull requests.
+
+## Tech Workers Coalition Italia
+
+Questa lista è curata da Tech Workers Coalition Italia. Se l'hai trovata interessante ed utile e vuoi conoscere altre persone interessate agli stessi temi, unisciti a noi. Trovi maggiori informazioni sul nostro [sito](https://twc-italia.org).
 
 ## Licenza
 
