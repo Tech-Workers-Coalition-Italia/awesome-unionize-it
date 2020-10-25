@@ -35,17 +35,13 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
 ## Software utili
 
-- [Coworker.org](https://home.coworker.org)
+- [Loomio](https://www.loomio.org/)
 
-  Coworker.org è un laboratorio per lavoratore per sperimentare strategie di power-building e vincere battaglie significative nell'economia del 21esimo secolo.
-- [Unit](https://unit.work/)
+  Facilita i processi di decisione collaborativi. Permette la discussione strutturata tramite thread e le votazioni per le decisioni, l'organizzazione di sondaggi e la condivisione di file. Il codice è libero e può essere facilmente hostato con Docker.
+
 - [Frank](https://getfrank.com/)
 
   Software per lavoratori non-management, per organizzarsi privatamente con i propri colleghi e creare campagne per migliorare il proprio luogo di lavoro.
-
-### Collective decision-making
-
-- [Loomio](https://www.loomio.org/)
 
 ## Prospettive storiche
 
