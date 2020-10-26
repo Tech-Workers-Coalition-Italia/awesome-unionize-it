@@ -31,6 +31,10 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
 ## Union Busting, i.e. Here be Dragons
 
+Lo Union Busting è un insieme di attività praticate dalle aziende per sabotare o prevenire la formazione di rappresentanze sindacali o la crescita degli iscritti alle stesse nei posti di lavoro.
+
+Le tattiche di Union Busting possono far riferimento ad azioni sia legali che illegali, e possono variare di intensità da tenue a violenta.
+
 - [Union Busting Playbook](https://unionbustingplaybook.com/)
 
   Descrive il fenomeno dello Union Busting, alcune strategie utilizzate dal management per scoraggiare l'organizzazione, alcuni casi di studio su successi ottenuti dalle lavoratrici nei confronti degli union buster ed un glossario di termini comuni usati nell'ambito della contrattazione collettiva in generale.
