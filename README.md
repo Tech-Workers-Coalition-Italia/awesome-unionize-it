@@ -11,6 +11,7 @@ Questa lista si propone di raccogliere e catalogare materiale inerente alla crea
   Propone un iter per la sindacalizzazione di un'azienda in relativa sicurezza, a partire dall'individuare possibili colleghi interessati fino all'organizzazione effettiva di incontri con lo scopo di formare una rappresentanza sindacale.
 - [How to Hold a Successful Meeting - IWW Guides](https://archive.iww.org/guides/branch/meeting/)
 
+  Guida dell'IWW su come condurre un'assemblea di successo. Dai consigli più pratici come quelli sulla durata degli incontri ai pro e contro delle varie metodologie di valutazione del consenso all'interno dei processi decisionali, la guida delinea le conoscenze necessarie e consigliate per l'organizzazione di assemblee.
 - [How to Organize Your Workplace Without Getting Caught](https://www.vice.com/en_us/article/y3md3v/how-to-organize-your-workplace-without-getting-caught)
 
 ## Diritto del Lavoro
