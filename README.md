@@ -31,8 +31,12 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
 ## Union Busting, i.e. Here be Dragons
 
-- [Amazon's Union-Busting Training Video](https://youtu.be/uRpwVwFxyk4)
 - [Union Busting Playbook](https://unionbustingplaybook.com/)
+
+  Descrive il fenomeno dello Union Busting, alcune strategie utilizzate dal management per scoraggiare l'organizzazione, alcuni casi di studio su successi ottenuti dalle lavoratrici nei confronti degli union buster ed un glossario di termini comuni usati nell'ambito della contrattazione collettiva in generale.
+- [Amazon's Union-Busting Training Video](https://youtu.be/uRpwVwFxyk4)
+
+  Video sui sindacati all'interno di Amazon pensato per utilizzo interno da parte del management. Contiene alcune delle subdole pratiche sfruttate dalle aziende per la repressione degli sforzi di autoorganizzazione da parte dei dipendenti.
 
 ## Software utili
 
