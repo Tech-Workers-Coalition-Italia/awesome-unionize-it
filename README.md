@@ -13,6 +13,11 @@ Questa lista si propone di raccogliere e catalogare materiale inerente alla crea
 
 - [How to Organize Your Workplace Without Getting Caught](https://www.vice.com/en_us/article/y3md3v/how-to-organize-your-workplace-without-getting-caught)
 
+  Panoramica ad alto livello dei possibili rischi esistenti nell'organizzare una rappresentanza sindacale. Presenta alcune accortezze da tenere in conto durante il processo.
+- [Il ruolo del rappresentante sindacale e gli strumenti a disposizione della rappresentanza](https://github.com/Tech-Workers-Coalition-Italia/awesome-unionize-it/raw/master/formazione.ppt)
+
+  UILTuCS definisce il concetto di RSU ed RSA, cita le regole che definiscono il diritto all'assemblea ed in generale illustra il ruolo delle rappresentanze sindacali all'interno delle aziende.
+
 ## Diritto del Lavoro
 
 Rispetto alla creazione e la gestione della rappresentanza nelle aziende, in Italia vale in primis quanto scritto nella legge 300 del 1970 (conosciuta anche come Statuto dei lavoratori) ed in secondo luogo le possibili integrazioni di CCNL e contratti aziendali. 
