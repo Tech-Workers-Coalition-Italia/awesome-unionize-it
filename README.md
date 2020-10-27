@@ -11,6 +11,7 @@ Questa lista si propone di raccogliere e catalogare materiale inerente alla crea
   Propone un iter per la sindacalizzazione di un'azienda in relativa sicurezza, a partire dall'individuare possibili colleghi interessati fino all'organizzazione effettiva di incontri con lo scopo di formare una rappresentanza sindacale.
 - [How to Hold a Successful Meeting - IWW Guides](https://archive.iww.org/guides/branch/meeting/)
 
+  Guida dell'IWW su come condurre un'assemblea di successo. Dai consigli più pratici come quelli sulla durata degli incontri ai pro e contro delle varie metodologie di valutazione del consenso all'interno dei processi decisionali, la guida delinea le conoscenze necessarie e consigliate per l'organizzazione di assemblee.
 - [How to Organize Your Workplace Without Getting Caught](https://www.vice.com/en_us/article/y3md3v/how-to-organize-your-workplace-without-getting-caught)
 
   Panoramica ad alto livello dei possibili rischi esistenti nell'organizzare una rappresentanza sindacale. Presenta alcune accortezze da tenere in conto durante il processo.
@@ -35,22 +36,26 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
 ## Union Busting, i.e. Here be Dragons
 
-- [Amazon's Union-Busting Training Video](https://youtu.be/uRpwVwFxyk4)
+Lo Union Busting è un insieme di attività praticate dalle aziende per sabotare o prevenire la formazione di rappresentanze sindacali o la crescita degli iscritti alle stesse nei posti di lavoro.
+
+Le tattiche di Union Busting possono far riferimento ad azioni sia legali che illegali, e possono variare di intensità da tenue a violenta.
+
 - [Union Busting Playbook](https://unionbustingplaybook.com/)
+
+  Descrive il fenomeno dello Union Busting, alcune strategie utilizzate dal management per scoraggiare l'organizzazione, alcuni casi di studio su successi ottenuti dalle lavoratrici nei confronti degli union buster ed un glossario di termini comuni usati nell'ambito della contrattazione collettiva in generale.
+- [Amazon's Union-Busting Training Video](https://youtu.be/uRpwVwFxyk4)
+
+  Video sui sindacati all'interno di Amazon pensato per utilizzo interno da parte del management. Contiene alcune delle subdole pratiche sfruttate dalle aziende per la repressione degli sforzi di autoorganizzazione da parte dei dipendenti.
 
 ## Software utili
 
-- [Coworker.org](https://home.coworker.org)
+- [Loomio](https://www.loomio.org/)
 
-  Coworker.org è un laboratorio per lavoratore per sperimentare strategie di power-building e vincere battaglie significative nell'economia del 21esimo secolo.
-- [Unit](https://unit.work/)
+  Facilita i processi di decisione collaborativi. Permette la discussione strutturata tramite thread e le votazioni per le decisioni, l'organizzazione di sondaggi e la condivisione di file. Il codice è libero e può essere facilmente hostato con Docker.
+
 - [Frank](https://getfrank.com/)
 
   Software per lavoratori non-management, per organizzarsi privatamente con i propri colleghi e creare campagne per migliorare il proprio luogo di lavoro.
-
-### Collective decision-making
-
-- [Loomio](https://www.loomio.org/)
 
 ## Prospettive storiche
 
