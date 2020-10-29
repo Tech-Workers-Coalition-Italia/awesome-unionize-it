@@ -47,6 +47,12 @@ Le tattiche di Union Busting possono far riferimento ad azioni sia legali che il
 
   Video sui sindacati all'interno di Amazon pensato per utilizzo interno da parte del management. Contiene alcune delle subdole pratiche sfruttate dalle aziende per la repressione degli sforzi di autoorganizzazione da parte dei dipendenti.
 
+## Prospettive storiche
+
+- [Il Controbit - Settembre '77](http://rsuibmsegrate.altervista.org/770900.htm)
+
+  Il Controbit, una pubblicazione della rappresentanza sindacale in IBM, dove si parla di rivendicazioni di diritti in Italia, di Apartheid in Sudafrica, della falsa retorica delle aziende tech sull' "investire in Italia" e delle castronerie dette e scritte da politici ed economisti quando si parla di progresso tecnologico.
+
 ## Software utili
 
 - [Loomio](https://www.loomio.org/)
@@ -56,12 +62,6 @@ Le tattiche di Union Busting possono far riferimento ad azioni sia legali che il
 - [Frank](https://getfrank.com/)
 
   Software per lavoratori non-management, per organizzarsi privatamente con i propri colleghi e creare campagne per migliorare il proprio luogo di lavoro.
-
-## Prospettive storiche
-
-- [Il Controbit - Settembre '77](http://rsuibmsegrate.altervista.org/770900.htm)
-
-  Il Controbit, una pubblicazione della rappresentanza sindacale in IBM, dove si parla di rivendicazioni di diritti in Italia, di Apartheid in Sudafrica, della falsa retorica delle aziende tech sull' "investire in Italia" e delle castronerie dette e scritte da politici ed economisti quando si parla di progresso tecnologico.
 
 ## Contribuzioni
 
