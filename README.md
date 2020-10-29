@@ -51,6 +51,8 @@ Le tattiche di Union Busting possono far riferimento ad azioni sia legali che il
 
 ## Prospettive storiche
 
+Come la storia e l'attualità ci insegnano, nessuno regala niente anche se la legge lo prevede. Tutti i diritti di cui godono le persone all'interno di un rapporto lavorativo sono stati conquistati con la lotta. In questa sezione teniamo traccia di materiale storico sull'organizzazione sindacale nel settore tecnologico.
+
 - [Il Controbit - Settembre '77](http://rsuibmsegrate.altervista.org/770900.htm)
 
   Il Controbit, una pubblicazione della rappresentanza sindacale in IBM, dove si parla di rivendicazioni di diritti in Italia, di Apartheid in Sudafrica, della falsa retorica delle aziende tech sull' "investire in Italia" e delle castronerie dette e scritte da politici ed economisti quando si parla di progresso tecnologico.
