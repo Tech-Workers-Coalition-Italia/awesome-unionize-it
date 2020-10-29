@@ -6,6 +6,8 @@ Questa lista si propone di raccogliere e catalogare materiale inerente alla crea
 
 ## Organizzazione rappresentanze sindacali
 
+La pratica dell'organizzazione sindacale è spesso malvista o apertamente osteggiata dalle aziende, a volte con conseguenze pesanti sul lavoro. Qui raccogliamo una serie di risorse riguardo l'organizzazione di rappresentanze nelle aziende, i rischi che questo processo potrebbe costringervi a fronteggiare e qualche indicazione sulle possibili pratiche da sviluppare.
+
 - [How To Unionize Your Workplace](https://www.youtube.com/watch?v=JvrldZlUwe0)
 
   Propone un iter per la sindacalizzazione di un'azienda in relativa sicurezza, a partire dall'individuare possibili colleghi interessati fino all'organizzazione effettiva di incontri con lo scopo di formare una rappresentanza sindacale.
