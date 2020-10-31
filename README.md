@@ -6,6 +6,8 @@ Questa lista si propone di raccogliere e catalogare materiale inerente alla crea
 
 ## Organizzazione rappresentanze sindacali
 
+La pratica dell'organizzazione sindacale è spesso malvista o apertamente osteggiata dalle aziende, a volte con conseguenze pesanti sul lavoro. Qui raccogliamo una serie di risorse riguardo l'organizzazione di rappresentanze nelle aziende, i rischi che questo processo potrebbe costringervi a fronteggiare e qualche indicazione sulle possibili pratiche da sviluppare.
+
 - [How To Unionize Your Workplace](https://www.youtube.com/watch?v=JvrldZlUwe0)
 
   Propone un iter per la sindacalizzazione di un'azienda in relativa sicurezza, a partire dall'individuare possibili colleghi interessati fino all'organizzazione effettiva di incontri con lo scopo di formare una rappresentanza sindacale.
@@ -47,6 +49,14 @@ Le tattiche di Union Busting possono far riferimento ad azioni sia legali che il
 
   Video sui sindacati all'interno di Amazon pensato per utilizzo interno da parte del management. Contiene alcune delle subdole pratiche sfruttate dalle aziende per la repressione degli sforzi di autoorganizzazione da parte dei dipendenti.
 
+## Prospettive storiche
+
+Come la storia e l'attualità ci insegnano, nessuno regala niente anche se la legge lo prevede. Tutti i diritti di cui godono le persone all'interno di un rapporto lavorativo sono stati conquistati con la lotta. In questa sezione teniamo traccia di materiale storico sull'organizzazione sindacale nel settore tecnologico.
+
+- [Il Controbit - Settembre '77](http://rsuibmsegrate.altervista.org/770900.htm)
+
+  Il Controbit, una pubblicazione della rappresentanza sindacale in IBM, dove si parla di rivendicazioni di diritti in Italia, di Apartheid in Sudafrica, della falsa retorica delle aziende tech sull' "investire in Italia" e delle castronerie dette e scritte da politici ed economisti quando si parla di progresso tecnologico.
+
 ## Software utili
 
 - [Loomio](https://www.loomio.org/)
@@ -56,12 +66,6 @@ Le tattiche di Union Busting possono far riferimento ad azioni sia legali che il
 - [Frank](https://getfrank.com/)
 
   Software per lavoratori non-management, per organizzarsi privatamente con i propri colleghi e creare campagne per migliorare il proprio luogo di lavoro.
-
-## Prospettive storiche
-
-- [Il Controbit - Settembre '77](http://rsuibmsegrate.altervista.org/770900.htm)
-
-  Il Controbit, una pubblicazione della rappresentanza sindacale in IBM, dove si parla di rivendicazioni di diritti in Italia, di Apartheid in Sudafrica, della falsa retorica delle aziende tech sull' "investire in Italia" e delle castronerie dette e scritte da politici ed economisti quando si parla di progresso tecnologico.
 
 ## Contribuzioni
 
