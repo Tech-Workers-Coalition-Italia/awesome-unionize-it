@@ -35,6 +35,9 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
   Dizionario dei diritti dei lavoratori annotato con la giurisprudenza. Iniziativa il cui obiettivo è fornire un quadro interpretativo e di orientamento caratterizzato dal punto di vista dei lavoratori.
 
+- [Le figure dell'ICT riconoscite dal CCNL Servizi](https://sindacato-networkers.it/2015/04/lict-del-terziario-ha-il-suo-contratto-nazionale/)
+
+  Un interessante articolo dal blog di UILTuCS che riporta un'infografica che definisce le figure professionali riconosciute dal CCNL Terziario, Distribuizione e Servizi.
 
 ## Union Busting, i.e. Here be Dragons
 
