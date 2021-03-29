@@ -11,6 +11,11 @@ La pratica dell'organizzazione sindacale è spesso malvista o apertamente ostegg
 - [How To Unionize Your Workplace](https://www.youtube.com/watch?v=JvrldZlUwe0)
 
   Propone un iter per la sindacalizzazione di un'azienda in relativa sicurezza, a partire dall'individuare possibili colleghi interessati fino all'organizzazione effettiva di incontri con lo scopo di formare una rappresentanza sindacale.
+
+- [Organizer Training - Getting Started](https://www.youtube.com/watch?v=ewDeJwMJG28)
+
+  Un'interessante introduzione all'organizzazione sindacale, ai rischi che può comportare e i motivi principali per cui viene attuata. Presenta inoltre una serie di esempi concreti di organizzazione sindacale in diversi contesti come un'azienda o un immobile in affitto.
+
 - [How to Hold a Successful Meeting - IWW Guides](https://archive.iww.org/guides/branch/meeting/)
 
   Guida dell'IWW su come condurre un'assemblea di successo. Dai consigli più pratici come quelli sulla durata degli incontri ai pro e contro delle varie metodologie di valutazione del consenso all'interno dei processi decisionali, la guida delinea le conoscenze necessarie e consigliate per l'organizzazione di assemblee.
@@ -38,6 +43,9 @@ In particolare, lo Statuto contiene una serie di misure di sostegno dell'attivit
 
   Dizionario dei diritti dei lavoratori annotato con la giurisprudenza. Iniziativa il cui obiettivo è fornire un quadro interpretativo e di orientamento caratterizzato dal punto di vista dei lavoratori.
 
+- [Le figure dell'ICT riconoscite dal CCNL Servizi](https://sindacato-networkers.it/2015/04/lict-del-terziario-ha-il-suo-contratto-nazionale/)
+
+  Un interessante articolo dal blog di UILTuCS che riporta un'infografica che definisce le figure professionali riconosciute dal CCNL Terziario, Distribuizione e Servizi.
 
 ## Union Busting, i.e. Here be Dragons
 
