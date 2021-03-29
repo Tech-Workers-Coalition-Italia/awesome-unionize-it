@@ -20,6 +20,9 @@ La pratica dell'organizzazione sindacale è spesso malvista o apertamente ostegg
 - [Il ruolo del rappresentante sindacale e gli strumenti a disposizione della rappresentanza](https://github.com/Tech-Workers-Coalition-Italia/awesome-unionize-it/raw/master/formazione.ppt)
 
   UILTuCS definisce il concetto di RSU ed RSA, cita le regole che definiscono il diritto all'assemblea ed in generale illustra il ruolo delle rappresentanze sindacali all'interno delle aziende.
+- [La Scuola di Mobilitazione Politica](https://scuolamobilitazionepolitica.it)
+
+  Percorso formativo remote-first pensato per persone under 30 con lo scopo di fornire gli strumenti per immaginare e realizzare un modo nuovo e diverso di fare politica. Il progetto nasce a Febbraio 2021 in piena pandemia e, per puro caso, piena crisi di governo. Le lezioni sono raccolte in un [canale](https://www.youtube.com/channel/UCIKGYwvb6qQE6fiCcb4mZ-A) Youtube, dove possono essere fruite liberamente.
 
 ## Diritto del Lavoro
 
